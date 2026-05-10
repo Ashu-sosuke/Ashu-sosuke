@@ -101,8 +101,7 @@ A production-grade e-commerce Android app with real-time product updates, user w
 
 <div align="center">
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashu-sosuke&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashu-sosuke&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-sosuke&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
