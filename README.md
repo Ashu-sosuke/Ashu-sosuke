@@ -29,32 +29,23 @@ My current focus is **AI/ML engineering** — specifically LLM orchestration, mu
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,kotlin,js,ts)](https://skillicons.dev)
 
 **AI / ML**
 
+[![My Skills](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 ![Groq](https://img.shields.io/badge/Groq-00A67E?style=flat-square&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-Audio_ML-8B5CF6?style=flat-square)
-![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-Transcription-0EA5E9?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-Llama_3.3_70B-F59E0B?style=flat-square)
+![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-0EA5E9?style=flat-square)
+![Llama 3.3 70B](https://img.shields.io/badge/Llama_3.3_70B-F59E0B?style=flat-square)
 
 **Backend & Infra**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,supabase,firebase,postgres)](https://skillicons.dev)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-Spatial_DB-336791?style=flat-square)
 
 **Frontend & Mobile**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,vite)](https://skillicons.dev)
 
 ---
 
