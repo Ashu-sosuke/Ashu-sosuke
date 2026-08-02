@@ -73,7 +73,7 @@ A 4-service system that understands what's happening during an emergency — tra
 
 ---
 
-#### 🤝 [NegotiationOpenEnv](#) — AI Agent Negotiation Benchmark
+#### 🤝 [NegotiationOpenEnv](https://github.com/Ashu-sosuke/NegotiationOpenEnv.git) — AI Agent Negotiation Benchmark
 
 > *A benchmark environment for evaluating AI agents on multi-turn negotiation.*
 
@@ -83,7 +83,7 @@ An open environment for testing how LLM-driven agents perform in structured nego
 
 ---
 
-#### 🍎 [FitStore](#) — Offline-First Nutrition Tracker *(in progress)*
+#### 🍎 [FitStore](#https://github.com/Ashu-sosuke/FitStore) — Offline-First Nutrition Tracker *(in progress)*
 
 > *Point your camera at food, get nutrition info — no internet required.*
 
