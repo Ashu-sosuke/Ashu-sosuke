@@ -83,7 +83,7 @@ An open environment for testing how LLM-driven agents perform in structured nego
 
 ---
 
-#### 🍎 [FitStore](#https://github.com/Ashu-sosuke/FitStore) — Offline-First Nutrition Tracker *(in progress)*
+#### 🍎 [FitStore](https://github.com/Ashu-sosuke/FitStore.git) — Offline-First Nutrition Tracker *(in progress)*
 
 > *Point your camera at food, get nutrition info — no internet required.*
 
