@@ -1,127 +1,123 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ashutosh Kumar Bharti</h1>
+<h3 align="center">Android & AI Systems Engineer | Building production mobile apps and real-time AI pipelines</h3>
 
-# Hey, I'm Ashutosh 👋
-
-**Android + AI systems engineer. I ship end-to-end — not tutorials.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashutosh_Kumar_Bharti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-bharti)
-[![GitHub](https://img.shields.io/badge/GitHub-Ashu--sosuke-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashu-sosuke)
-![Open to Internships](https://img.shields.io/badge/Open_to-SWE_Internships-22C55E?style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashu-sosuke&icon=0&color=0" alt="profile views" />
+</p>
 
 ---
 
-### About me
+### 💫 About Me
 
-CS student focused on **Android engineering (Kotlin)** and **AI-powered applications (Python)**. I build systems that go into production, not demos — shipped a payment gateway integration solo as an Android intern at ParkVault, and I'm now working toward mobile systems + distributed systems + AI applications as a long-term specialization.
-
-- 📱 Android: Kotlin, Jetpack Compose, offline-first architecture
-- 🧠 AI/ML: LLM orchestration (Groq), on-device inference (PyTorch), audio ML
-- ⚙️ Backend: Ktor, FastAPI
-- 💼 Actively looking for a **Software Engineering internship**
-
----
-
-### Tech Stack
-
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=kotlin,python,js,ts)](https://skillicons.dev)
-
-**Android**
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-
-**AI / ML**
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
-![Groq](https://img.shields.io/badge/Groq-00A67E?style=flat-square&logoColor=white)
-![Llama 3.3 70B](https://img.shields.io/badge/Llama_3.3_70B-F59E0B?style=flat-square)
-![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-0EA5E9?style=flat-square)
-
-**Backend & Infra**
-
-[![My Skills](https://skillicons.dev/icons?i=fastapi,supabase,firebase,postgres)](https://skillicons.dev)
-![Ktor](https://img.shields.io/badge/Ktor-000000?style=flat-square&logo=kotlin&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+- 🌱 **Currently working on:** [Dino](#) — a privacy-first, production-grade local AI action assistant for desktop automation, file management, communications, system control, and voice/chat interaction
+- 👯 **Looking to collaborate on:** AI agents, local LLMs, desktop automation, Android apps, and open-source projects combining on-device ML with backend intelligence
+- 🤝 **Looking for help with:** Optimizing local LLM inference for low-latency automation, and scaling multi-service AI architectures (like AstraSOS) in production
+- 📫 **Ask me about:** Android (Kotlin, Jetpack Compose, MVVM/Clean Architecture), FastAPI backends, LLM integration (Groq/Llama 3.3 70B), local AI agents, or AI emergency-response systems
+- ⚡ **Fun fact:** Built a 4-service AI ecosystem (AstraSOS) that routes SOS incidents from trigger to responder dashboard in under 2 seconds
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-#### 🚨 [AstraSOS](https://github.com/Ashu-sosuke/Astra_SOS) — AI Emergency Response Ecosystem
-
-> *From SOS trigger to the right responder's dashboard in under 2 seconds.*
-
-A 4-service system that understands what's happening during an emergency — transcribes audio, analyzes vocal stress, runs a Groq LLM for situational intelligence, and autonomously routes incidents to the correct emergency service (Hospital / Police / Fire).
-
-- **AI Pipeline:** Faster-Whisper → Librosa stress detection → Groq Llama 3.3 70B → Fusion Engine (5-signal weighted score)
-- **Android App:** Dual-path SMS (local SIM + Twilio cloud), fully offline-capable
-- **Multi-service routing:** `services_needed[]` array ensures fire-with-injuries hits both Fire AND Hospital dashboards
-- **Crime risk layer:** AstraNews scraper geocodes Indian news headlines into PostGIS hotspot data
-
-| Repo | Role |
-|------|------|
-| [Astra_SOS](https://github.com/Ashu-sosuke/Astra_SOS) | Android companion app |
-| [Astra-ai-service](https://github.com/Ashu-sosuke/Astra-ai-service) | AI intelligence engine (FastAPI + Groq) |
-| [Astra-Landing-Page](https://github.com/Ashu-sosuke/Astra-Landing-Page) | React service dashboards |
-| [Astra_News](https://github.com/Ashu-sosuke/Astra_News) | Crime data scraper & geocoder |
-
-`Python` `Kotlin` `FastAPI` `Groq` `Librosa` `Supabase` `React` `Twilio` `PostGIS`
+| Project | Description | Tech |
+|---|---|---|
+| **[AstraSOS](https://github.com/Ashu-sosuke)** | AI emergency-response ecosystem routing SOS incidents from trigger to responder dashboard in <2s, using a multi-signal fusion pipeline (Whisper → Librosa → Groq Llama 3.3 70B) | Kotlin, FastAPI, Groq, Librosa, Twilio, PostGIS, React |
+| **[NegotiationOpenEnv](https://github.com/Ashu-sosuke)** | OpenEnv-compliant benchmark for AI agent negotiation strategy, with weighted grading across 3 escalating task tiers | Python, FastAPI, Pydantic, Docker, Gemini API |
+| **[FitStore](https://github.com/Ashu-sosuke)** | Offline-first fitness app with a CameraX + PyTorch food-scanning pipeline and WorkManager-driven sync engine | Kotlin, Jetpack Compose, Hilt, FastAPI, MongoDB, PyTorch |
+| **Dino** *(in progress)* | Privacy-first local AI action assistant for desktop automation and system control | Local LLMs, Python |
 
 ---
 
-#### 🤝 [NegotiationOpenEnv](https://github.com/Ashu-sosuke/NegotiationOpenEnv.git) — AI Agent Negotiation Benchmark
+### 🌐 Connect with Me
 
-> *A benchmark environment for evaluating AI agents on multi-turn negotiation.*
-
-An open environment for testing how LLM-driven agents perform in structured negotiation scenarios — built to probe strategic reasoning, not just single-turn Q&A.
-
-`Python` `LLM Agents` `Evaluation`
-
----
-
-#### 🍎 [FitStore](https://github.com/Ashu-sosuke/FitStore.git) — Offline-First Nutrition Tracker *(in progress)*
-
-> *Point your camera at food, get nutrition info — no internet required.*
-
-An offline-first Android app using an on-device PyTorch model for food classification, so nutrition tracking works without a network connection.
-
-`Kotlin` `PyTorch` `Android` `On-device ML`
+<p align="left">
+<a href="https://www.linkedin.com/in/ashutosh-kumar-bharti" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:15bhartiashutosh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
-#### 💳 ParkVault — Android Internship
+### 💻 Tech Stack
 
-> *Shipped a Razorpay payment gateway integration solo, in production.*
+**Languages & Frameworks**
+<p align="left">
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
-Android internship project where I owned and shipped the payment integration end-to-end.
+**Backend & AI**
+<p align="left">
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" />
+</p>
 
-`Kotlin` `Android` `Razorpay`
+**Mobile**
+<p align="left">
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</p>
+
+**Databases & Cloud**
+<p align="left">
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+**Tools & Design**
+<p align="left">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Ashu-sosuke&theme=gotham&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Ashu-sosuke&theme=gotham&hide_border=false" width="49%" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ashu-sosuke&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashu-sosuke&theme=github_dark)](https://github.com/Ashu-sosuke)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ashu-sosuke&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashu-sosuke&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ashu-sosuke&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-### Let's connect
-
-Actively looking for a **Software Engineering internship**. If you're hiring or know a team that ships fast — reach out.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-bharti)
-
----
-
-<div align="center">
-<sub>Building things that matter · Open to internships · Always shipping</sub>
-</div>
+<p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
