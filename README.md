@@ -2,7 +2,7 @@
 <h3 align="center">Android & AI Systems Engineer | Building production mobile apps and real-time AI pipelines</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashu-sosuke&icon=0&color=0" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ashu-sosuke&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -120,4 +120,3 @@
 
 ---
 
-<p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
